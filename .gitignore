@@ -1,0 +1,2 @@
+/vendor/workerman/*.pid
+/vendor/workerman/*.log
